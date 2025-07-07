@@ -1,6 +1,6 @@
 import json
 
-from models import Movie, Show
+from watch.models import Movie, Show
 
 
 def get_sources(production):
