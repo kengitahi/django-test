@@ -1,0 +1,915 @@
+[
+    {
+        "id": 193104,
+        "slug": "27b8388a-c5a4-4d43-bc0f-4c00d8e4f16b-castlevania-nocturne",
+        "name": "Castlevania: Nocturne",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/10/02/27b8388a-c5a4-4d43-bc0f-4c00d8e4f16b-dMdRPtEalw_p25306006_b_h8_aa1.386x217.jpg",
+        "description": "During the French Revolution, vampire hunter prodigy Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire.",
+        "url": "/guide/show/info/27b8388a-c5a4-4d43-bc0f-4c00d8e4f16b-castlevania-nocturne/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2023-09-28",
+        "runtime": 0,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 7.9,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 11,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/27b8388a-c5a4-4d43-bc0f-4c00d8e4f16b-backdrop-1920.jpg"
+    },
+    {
+        "id": 185295,
+        "slug": "f1ac0682-6a24-4d0d-8f37-6110665d6285-one-piece",
+        "name": "One Piece",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/09/05/f1ac0682-6a24-4d0d-8f37-6110665d6285-OhauWUdeKq_f1ac0682-6a24-4d0d-8f37-6110665.386x217.png",
+        "description": "In a seafaring world, a young pirate captain sets out with his crew to attain the title of Pirate King, and to discover the mythical treasure known as 'One Piece.'",
+        "url": "/guide/show/info/f1ac0682-6a24-4d0d-8f37-6110665d6285-one-piece/",
+        "rating": "1",
+        "rating_name": "TV-14",
+        "first_aired": "2023-08-31",
+        "runtime": 60,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.4,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 14,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/nI7Gc3EvuwXxzQboSAuF0LdR4kc.jpg"
+    },
+    {
+        "id": 68762,
+        "slug": "53919-sex-education",
+        "name": "Sex Education",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2019/01/13/53919-7394214561-608x342.386x217.jpg",
+        "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "url": "/guide/show/info/53919-sex-education/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2019-01-11",
+        "runtime": 45,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.3,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 458,
+        "weight": 5,
+        "trending_weight": 15,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/1c7zy6zUbZ2s4zFAy6CpKipQvdQ1.jpg"
+    },
+    {
+        "id": 105706,
+        "slug": "30649c94-ce7d-477c-813d-4ce90e22a224-lupin",
+        "name": "Lupin",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2021/06/17/lupin.386x217.jpg",
+        "description": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "url": "/guide/show/info/30649c94-ce7d-477c-813d-4ce90e22a224-lupin/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2021-01-08",
+        "runtime": 45,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 7.5,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 300,
+        "weight": 5,
+        "trending_weight": 34,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/bktTDiqlP0uksG75UpqJZUX8FPH1.jpg"
+    },
+    {
+        "id": 69,
+        "slug": "breaking-bad",
+        "name": "Breaking Bad",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2018/07/10/8523-4005061374-608x342-show-thumbnail.386x217.jpg",
+        "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+        "url": "/guide/show/info/breaking-bad/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2008-01-20",
+        "runtime": 49,
+        "modes": {
+            "modes": [
+                "subscriptions",
+                "ppv"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [
+                    {
+                        "id": 2,
+                        "name": "Amazon",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/04/25/amazon_websource-2022.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1249,
+                        "name": "Apple TV",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/03/16/apple-tv-websource-image.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Google Play Movies",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/googleplay-movies-websource-img-500px-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1,
+                        "name": "iTunes",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/07/28/itunes_appstore_image.webp",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 746,
+                        "name": "microsoft",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/31/microsoft_websource_stacked_logo.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "VUDU",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/09/09/vudu-websource-logo-blu-2022-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "vudu",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "YouTube",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2016/06/23/YouTube-logo.png",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    }
+                ],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 9.5,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 8000,
+        "weight": 5,
+        "trending_weight": 49,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/n3u3kgNttY1F5Ixi5bMY9BwZImQ1.jpg"
+    },
+    {
+        "id": 193321,
+        "slug": "411e3430-b976-40cc-aa1a-51786143cd95-the-devils-plan",
+        "name": "The Devil's Plan",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/09/28/411e3430-b976-40cc-aa1a-51786143cd95-quyNNEzgqf_411e3430-b976-40cc-aa1a-5178614.386x217.png",
+        "description": "In this competition of intelligence, contestants face off in games of wit and strategy to be crowned winner and go home with the ultimate prize.",
+        "url": "/guide/show/info/411e3430-b976-40cc-aa1a-51786143cd95-the-devils-plan/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "first_aired": "2023-09-26",
+        "runtime": 0,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 7.0,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 56,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/411e3430-b976-40cc-aa1a-51786143cd95-backdrop-1920.jpg"
+    },
+    {
+        "id": 50318,
+        "slug": "47447-babylon-berlin",
+        "name": "Babylon Berlin",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2018/07/25/47447-2289800863-608x342.386x217.jpg",
+        "description": "Colognian commissioner Gereon Rath moves to Berlin, the epicenter of political and social changes in the Golden Twenties.",
+        "url": "/guide/show/info/47447-babylon-berlin/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2017-10-13",
+        "runtime": 45,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.4,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 521,
+        "weight": 5,
+        "trending_weight": 63,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/rk5Bjn5b77E4kcjs7CMAGMEBYpc1.jpg"
+    },
+    {
+        "id": 193105,
+        "slug": "bcb9e419-e931-4822-8095-c6b5d9cfff73-song-of-the-bandits",
+        "name": "Song of the Bandits",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/09/24/bcb9e419-e931-4822-8095-c6b5d9cfff73-eqUToQuMly_song-of-bandits.386x217.jpg",
+        "description": "The Koreans who gathered in Gando, today part of northeastern China, for their own reasons and band together to protect their homes during 1910-45 Japanese colonial rule.",
+        "url": "/guide/show/info/bcb9e419-e931-4822-8095-c6b5d9cfff73-song-of-the-bandits/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "first_aired": "2023-09-22",
+        "runtime": 0,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 7.2,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 64,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/bcb9e419-e931-4822-8095-c6b5d9cfff73-backdrop-1920.jpg"
+    },
+    {
+        "id": 193277,
+        "slug": "1f58b20a-b412-4c00-88aa-772c3d57f835-encounters",
+        "name": "Encounters",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/09/29/1f58b20a-b412-4c00-88aa-772c3d57f835-QycndhqGqE_encoiunters.386x217.png",
+        "description": "Mass UFO sightings from the last 50 years fuel a global mystery in this docuseries featuring eyewitness accounts, expert interviews and new evidence.",
+        "url": "/guide/show/info/1f58b20a-b412-4c00-88aa-772c3d57f835-encounters/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "first_aired": "2023-09-27",
+        "runtime": 194,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 6.5,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 70,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/6cvg4KOozoAGPyOwf3NS53QOcqD.jpg"
+    },
+    {
+        "id": 21198,
+        "slug": "37760-stranger-things",
+        "name": "Stranger Things",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2022/07/01/244c3e6a-0057-4354-b535-8b52fd83c3e1-tvsxbatoFe_leKcWu1C5NFQIkR6qI3fiPSKRzG1.386x217.jpg",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+        "url": "/guide/show/info/37760-stranger-things/",
+        "rating": "1",
+        "rating_name": "TV-14",
+        "first_aired": "2016-07-11",
+        "runtime": 51,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.7,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 30,
+        "weight": 3,
+        "trending_weight": 80,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/rcA17r3hfHtRrk3Xs3hXrgGeSGT1.jpg"
+    },
+    {
+        "id": 82809,
+        "slug": "58446-the-witcher",
+        "name": "The Witcher",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/07/10/603b626d-c5ad-46f6-9578-2406c47a1b9e-kBtMvynwgz_58446-the-witcher-s3.386x217.png",
+        "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "url": "/guide/show/info/58446-the-witcher/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2019-12-20",
+        "runtime": 60,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.0,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 500,
+        "weight": 5,
+        "trending_weight": 83,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/gGNV5IoyD1lik7KRvr3cHMYjnCI1.jpg"
+    },
+    {
+        "id": 191248,
+        "slug": "de42e490-0c9b-4db8-a2c7-dd341dfa0c7d-choona",
+        "name": "Choona",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/10/02/de42e490-0c9b-4db8-a2c7-dd341dfa0c7d-tpQBeXSyXK_choona.386x217.jpeg",
+        "description": "When an unlikely group of misfits discovers a common enemy in the same ruthless yet superstitious politician, they plot a heist to exact revenge.",
+        "url": "/guide/show/info/de42e490-0c9b-4db8-a2c7-dd341dfa0c7d-choona/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "first_aired": "2023-08-03",
+        "runtime": 0,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 6.3,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 87,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/ygykAssQceF0mF6yCPyX3JqDuxO.jpg"
+    },
+    {
+        "id": 190260,
+        "slug": "3b073078-0154-48ee-810a-c3fa9fa063d3-king-the-land",
+        "name": "King the Land",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/06/19/3b073078-0154-48ee-810a-c3fa9fa063d3-TahkYjSJdY_3b073078-0154-48ee-810a-c3fa9fa.386x217.png",
+        "description": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile, which he cannot stand.",
+        "url": "/guide/show/info/3b073078-0154-48ee-810a-c3fa9fa063d3-king-the-land/",
+        "rating": "1",
+        "rating_name": "TV-14",
+        "first_aired": "2023-06-17",
+        "runtime": 60,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 4.4,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 100,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/tbBpnuv59ic0zwmDZ95ijwEsFn6.jpg"
+    },
+    {
+        "id": 190289,
+        "slug": "13326117-918c-4a70-9835-3f2ac032b5cb-see-you-in-my-19th-life",
+        "name": "See You in My 19th Life",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2023/06/19/13326117-918c-4a70-9835-3f2ac032b5cb-gGbEKaOMCI_13326117-918c-4a70-9835-3f2ac03.386x217.png",
+        "description": "Ban Ji Eum has an extraordinary ability: she can remember the memories of all her past lives. Repeating her reincarnation for nearly a thousand years, Ban Ji Eum has been living her lives diligently. After her previous life is cut short by a tragic accident, she sets out to reconnect with the people of her past life in her current one.",
+        "url": "/guide/show/info/13326117-918c-4a70-9835-3f2ac032b5cb-see-you-in-my-19th-life/",
+        "rating": "1",
+        "rating_name": "TV-14",
+        "first_aired": "2023-06-17",
+        "runtime": 70,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 7.7,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 999999,
+        "weight": 5,
+        "trending_weight": 100,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/s2KfCTh8yifvoZXlTvui1m4dxnQ.jpg"
+    },
+    {
+        "id": 47689,
+        "slug": "46746-la-casa-de-papel",
+        "name": "Money Heist",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/shows/2022/02/01/a1690196-5da4-447b-85c8-bf1e799dd465-wiiLjgOLZR_zAIippNnm6o0gYEtjapbjQSxP8G1.386x217.jpg",
+        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+        "url": "/guide/show/info/46746-la-casa-de-papel/",
+        "rating": "M",
+        "rating_name": "TV-MA",
+        "first_aired": "2017-05-02",
+        "runtime": 70,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "imdb_rating": 8.2,
+        "web_free": false,
+        "web_paid": false,
+        "type": "show",
+        "subscribed_user_only": true,
+        "popularity": 1004,
+        "weight": 5,
+        "trending_weight": 102,
+        "is_trending": true,
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/shows/backdrops/gFZriCkpJYsApPZEF3jhxL4yLzG1.jpg"
+    }
+]

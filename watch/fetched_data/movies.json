@@ -1,0 +1,1485 @@
+[
+    {
+        "id": 576491,
+        "slug": "ea15cf19-7a0b-4c7b-be32-1c45051f93ee-nowhere",
+        "name": "Nowhere",
+        "description": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/10/02/BikgCqkBcE_nowhere.267x400.jpeg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/ea15cf19-7a0b-4c7b-be32-1c45051f93ee-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/ea15cf19-7a0b-4c7b-be32-1c45051f93ee-nowhere/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 6.5,
+        "runtime": 109,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 6,
+        "is_trending": true
+    },
+    {
+        "id": 559465,
+        "slug": "5bf9cfa9-ceb5-418b-b6b5-0d4895cb88b6-reptile",
+        "name": "Reptile",
+        "description": "Tom Nichols is a hardened New England detective, unflinching in his pursuit of a case where nothing is as it seems and it begins to dismantle the illusions in his own life.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/06/5bf9cfa9-ceb5-418b-b6b5-0d4895cb88b6-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/5bf9cfa9-ceb5-418b-b6b5-0d4895cb88b6-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/5bf9cfa9-ceb5-418b-b6b5-0d4895cb88b6-reptile/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 6.9,
+        "runtime": 134,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 9,
+        "is_trending": true
+    },
+    {
+        "id": 559286,
+        "slug": "2f6e44ca-08c8-4c1b-b33e-687308a45435-the-wonderful-story-of-henry-sugar",
+        "name": "The Wonderful Story of Henry Sugar",
+        "description": "Chronicles a variety of stories, but the main one follows Henry Sugar, who is able to see through objects and predict the future with the help of a book he stole.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2022/11/10/2f6e44ca-08c8-4c1b-b33e-687308a45435-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/2f6e44ca-08c8-4c1b-b33e-687308a45435-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/2f6e44ca-08c8-4c1b-b33e-687308a45435-the-wonderful-story-of-henry-sugar/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 7.5,
+        "runtime": 37,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 15,
+        "is_trending": true
+    },
+    {
+        "id": 580723,
+        "slug": "1ee567cc-81fa-4d38-adb0-750bdc029bab-poison",
+        "name": "Poison",
+        "description": "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/10/02/BvuVAlYMex_poison.267x400.jpeg",
+        "bg_image": "//d62yj09qiua3x.cloudfront.net/static/guide/img/placeholders/Default_Movie_Poster_400x570.png",
+        "url": "/guide/movie/info/1ee567cc-81fa-4d38-adb0-750bdc029bab-poison/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 7.0,
+        "runtime": 17,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 18,
+        "is_trending": true
+    },
+    {
+        "id": 578582,
+        "slug": "39649b21-0eda-48f0-a74d-404100dceeec-the-ratcatcher",
+        "name": "The Ratcatcher",
+        "description": "In an English village, a reporter and a mechanic listen to a rat catcher explain his clever plan to outwit his prey.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/10/02/KcIhVzWVEf_the-rat-catcher.267x400.jpeg",
+        "bg_image": "//d62yj09qiua3x.cloudfront.net/static/guide/img/placeholders/Default_Movie_Poster_400x570.png",
+        "url": "/guide/movie/info/39649b21-0eda-48f0-a74d-404100dceeec-the-ratcatcher/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 6.7,
+        "runtime": 17,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 24,
+        "is_trending": true
+    },
+    {
+        "id": 570930,
+        "slug": "a6824f26-c677-44e3-ac34-3c355588cbbe-carga-maxima",
+        "name": "Overhaul",
+        "description": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/08/23/a6824f26-c677-44e3-ac34-3c355588cbbe-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/a6824f26-c677-44e3-ac34-3c355588cbbe-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/a6824f26-c677-44e3-ac34-3c355588cbbe-carga-maxima/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 4.8,
+        "runtime": 107,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 29,
+        "is_trending": true
+    },
+    {
+        "id": 580729,
+        "slug": "f5f8b01a-2ae7-4bdc-a3af-7a56d1804a06-the-swan",
+        "name": "The Swan",
+        "description": "A small brilliant boy is tormented by two large idiotic bullies.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/10/02/JEVPMBPRzb_the-swan.267x400.jpeg",
+        "bg_image": "//d62yj09qiua3x.cloudfront.net/static/guide/img/placeholders/Default_Movie_Poster_400x570.png",
+        "url": "/guide/movie/info/f5f8b01a-2ae7-4bdc-a3af-7a56d1804a06-the-swan/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 6.9,
+        "runtime": 17,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 30,
+        "is_trending": true
+    },
+    {
+        "id": 578596,
+        "slug": "8234a3f1-c7fa-43ae-8470-56b54949cb6c-love-is-in-the-air",
+        "name": "Love Is in the Air",
+        "description": "A seaplane pilot flying in the tropics finds herself falling for the man sent to sink her business.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/05/8234a3f1-c7fa-43ae-8470-56b54949cb6c-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/8234a3f1-c7fa-43ae-8470-56b54949cb6c-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/8234a3f1-c7fa-43ae-8470-56b54949cb6c-love-is-in-the-air/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2023,
+        "imdb_rating": 5.7,
+        "runtime": 88,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 36,
+        "is_trending": true
+    },
+    {
+        "id": 577915,
+        "slug": "1188da40-a4a5-4851-9df9-95286ebd81b1-forgotten-love",
+        "name": "Forgotten Love",
+        "description": "Professor Wilczur, from whom his wife and beloved daughter left, is looking for oblivion in alcohol. Severely wounded in the head during a fight in a suburban tavern, he loses his memory.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/06/1188da40-a4a5-4851-9df9-95286ebd81b1-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/1188da40-a4a5-4851-9df9-95286ebd81b1-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/1188da40-a4a5-4851-9df9-95286ebd81b1-forgotten-love/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2023,
+        "imdb_rating": 7.6,
+        "runtime": 140,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 41,
+        "is_trending": true
+    },
+    {
+        "id": 578659,
+        "slug": "17a2ffe7-84eb-48cd-89b7-75728fefd50d-do-not-disturb",
+        "name": "Do Not Disturb",
+        "description": "Ayzek, who has been a waiter on ferries for years, becomes unemployed due to the pandemic and eventually finds a job at a hotel on the night shift. However, who knows what will happen to Ayzek on his first night.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/06/17a2ffe7-84eb-48cd-89b7-75728fefd50d-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/17a2ffe7-84eb-48cd-89b7-75728fefd50d-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/17a2ffe7-84eb-48cd-89b7-75728fefd50d-do-not-disturb/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 6.4,
+        "runtime": 114,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 54,
+        "is_trending": true
+    },
+    {
+        "id": 568184,
+        "slug": "8c1ed72b-9b1b-4f1e-8fcc-88d54ee19a2f-lego-friends-the-next-chapter-new-beginnings",
+        "name": "Lego Friends: The Next Chapter: New Beginnings",
+        "description": "With the Welcome to School Festival approaching, Aliya and her friends must set aside their own desires and work together to make the event a success.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/05/20/8c1ed72b-9b1b-4f1e-8fcc-88d54ee19a2f-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/8c1ed72b-9b1b-4f1e-8fcc-88d54ee19a2f-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/8c1ed72b-9b1b-4f1e-8fcc-88d54ee19a2f-lego-friends-the-next-chapter-new-beginnings/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "release_year": 2023,
+        "imdb_rating": 7.6,
+        "runtime": 45,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 14,
+                        "name": "Prime Video",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2021/11/12/primevideo_new_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "AMZN",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX",
+                "AMZN"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 64,
+        "is_trending": true
+    },
+    {
+        "id": 576482,
+        "slug": "7e464f11-3a41-4894-b77e-a576c1c1a5cc-spy-kids-armageddon",
+        "name": "Spy Kids: Armageddon",
+        "description": "The children of the world's greatest secret agents unwittingly help a powerful game developer unleash a computer virus that gives him control of all technology, leading them to become spies themselves to save their parents and the world.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/08/21/7e464f11-3a41-4894-b77e-a576c1c1a5cc-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/7e464f11-3a41-4894-b77e-a576c1c1a5cc-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/7e464f11-3a41-4894-b77e-a576c1c1a5cc-spy-kids-armageddon/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 4.3,
+        "runtime": 108,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 69,
+        "is_trending": true
+    },
+    {
+        "id": 570932,
+        "slug": "d8edf425-7787-44ba-8d5d-e5070b69c6c8-street-flow-2",
+        "name": "Street Flow 2",
+        "description": "Struggling to overcome cycles of betrayal, revenge and violence, the Traor\u00e9 brothers continue to fight for a brighter future in a seedy Paris suburb.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/06/d8edf425-7787-44ba-8d5d-e5070b69c6c8-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/d8edf425-7787-44ba-8d5d-e5070b69c6c8-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/d8edf425-7787-44ba-8d5d-e5070b69c6c8-street-flow-2/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 5.1,
+        "runtime": 97,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 75,
+        "is_trending": true
+    },
+    {
+        "id": 561939,
+        "slug": "7e23eb9c-db76-4152-bc4c-cc89a96252bb-the-monkey-king",
+        "name": "The Monkey King",
+        "description": "Inspired by an epic Chinese tale, translated into an action-packed comedy, a Monkey and his magical fighting Stick battle demons, dragons, gods and the greatest adversary of all - Monkey's ego.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/05/23/IkNunUrXdX_7e23eb9c-db76-4152-bc4c-cc89a96252bb-the-monkey-king.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/7e23eb9c-db76-4152-bc4c-cc89a96252bb-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/7e23eb9c-db76-4152-bc4c-cc89a96252bb-the-monkey-king/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2023,
+        "imdb_rating": 5.8,
+        "runtime": 92,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 104,
+        "is_trending": true
+    },
+    {
+        "id": 581163,
+        "slug": "c2cfd42d-4bbf-4f7c-ae37-345759ca4e6e-jaane-jaan",
+        "name": "Jaane Jaan",
+        "description": "A single mother and her daughter who commit a crime and a neighbor who helps them cover it up amidst a police investigation.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/24/NeOaRaMnnh_jaane-hane.267x400.jpg",
+        "bg_image": "//d62yj09qiua3x.cloudfront.net/static/guide/img/placeholders/Default_Movie_Poster_400x570.png",
+        "url": "/guide/movie/info/c2cfd42d-4bbf-4f7c-ae37-345759ca4e6e-jaane-jaan/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 7.0,
+        "runtime": 139,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 111,
+        "is_trending": true
+    },
+    {
+        "id": 578689,
+        "slug": "d78b0cfa-6ca0-4efc-905a-208952fa9d67-the-black-book",
+        "name": "The Black Book",
+        "description": "After his son is framed for a kidnapping, a bereaved deacon takes justice into his own hands and fights a corrupt police gang to absolve him.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/05/d78b0cfa-6ca0-4efc-905a-208952fa9d67-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/d78b0cfa-6ca0-4efc-905a-208952fa9d67-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/d78b0cfa-6ca0-4efc-905a-208952fa9d67-the-black-book/",
+        "rating": "R",
+        "rating_name": "R",
+        "release_year": 2023,
+        "imdb_rating": 5.0,
+        "runtime": 124,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 113,
+        "is_trending": true
+    },
+    {
+        "id": 210,
+        "slug": "21488-the-dark-knight",
+        "name": "The Dark Knight",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2016/07/21/-alt--21488-4300559312-858820538-4374753353-large-400x570-alt-.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/InyqlaSPMO_nMKdUUepR0i5zn0y1T4CsSB5chy.1920x1080.jpg",
+        "url": "/guide/movie/info/21488-the-dark-knight/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2008,
+        "imdb_rating": 9.0,
+        "runtime": 152,
+        "modes": {
+            "modes": [
+                "subscriptions",
+                "ppv"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [
+                    {
+                        "id": 2,
+                        "name": "Amazon",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/04/25/amazon_websource-2022.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1249,
+                        "name": "Apple TV",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/03/16/apple-tv-websource-image.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Google Play Movies",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/googleplay-movies-websource-img-500px-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1,
+                        "name": "iTunes",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/07/28/itunes_appstore_image.webp",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 746,
+                        "name": "microsoft",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/31/microsoft_websource_stacked_logo.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "VUDU",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/09/09/vudu-websource-logo-blu-2022-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "vudu",
+                        "transition_text": null
+                    }
+                ],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 733,
+                        "name": "MAX",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/05/26/max-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "hbo_max",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "hbo_max",
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 300,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 116,
+        "is_trending": true
+    },
+    {
+        "id": 1336,
+        "slug": "333-mission-impossible",
+        "name": "Mission: Impossible",
+        "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2016/07/20/333-5037784837-1333983415-3893806553-large-400x570.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/mjPcoodfZU_pbaAkR1FDvgndTVFgGRIzf9o49r.1920x1080.jpg",
+        "url": "/guide/movie/info/333-mission-impossible/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 1996,
+        "imdb_rating": 7.1,
+        "runtime": 110,
+        "modes": {
+            "modes": [
+                "subscriptions",
+                "ppv"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [
+                    {
+                        "id": 1249,
+                        "name": "Apple TV",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/03/16/apple-tv-websource-image.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Google Play Movies",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/googleplay-movies-websource-img-500px-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1,
+                        "name": "iTunes",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/07/28/itunes_appstore_image.webp",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "VUDU",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/09/09/vudu-websource-logo-blu-2022-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "vudu",
+                        "transition_text": null
+                    }
+                ],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 749,
+                        "name": "Paramount+",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/02/14/pTRbmGgvtN_paramount_plus_tv-Network_20211.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "PMT+",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX",
+                "PMT+"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 200,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 120,
+        "is_trending": true
+    },
+    {
+        "id": 475127,
+        "slug": "f3000573-828a-404f-a427-cf234aeb2f80-puss-in-boots-the-last-wish",
+        "name": "Puss in Boots: The Last Wish",
+        "description": "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/07/24/cvMKdhLnDa_aV1KGO9X3S4kzqEptVDAvGjccql1.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/wGFGTZFTGy_vNuHqmOJRQXY0PBd887DklSDlBP1.1920x1080.jpg",
+        "url": "/guide/movie/info/f3000573-828a-404f-a427-cf234aeb2f80-puss-in-boots-the-last-wish/",
+        "rating": "P",
+        "rating_name": "PG",
+        "release_year": 2022,
+        "imdb_rating": 7.8,
+        "runtime": 102,
+        "modes": {
+            "modes": [
+                "subscriptions",
+                "ppv"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [
+                    {
+                        "id": 2,
+                        "name": "Amazon",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/04/25/amazon_websource-2022.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1249,
+                        "name": "Apple TV",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/03/16/apple-tv-websource-image.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 746,
+                        "name": "microsoft",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/31/microsoft_websource_stacked_logo.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    }
+                ],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 129,
+        "is_trending": true
+    },
+    {
+        "id": 381204,
+        "slug": "026f2467-383d-4847-a2d2-bc6cd75d9748-dune",
+        "name": "Dune",
+        "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2021/11/03/sfLWbjJryP_-204414-4221552964-9551738835-4337674147-large-400x5701.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/KvEcKjfkQk_aknvFyJUQQoZFtmFnYzKi4vGv4J.1920x1080.jpg",
+        "url": "/guide/movie/info/026f2467-383d-4847-a2d2-bc6cd75d9748-dune/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2021,
+        "imdb_rating": 8.0,
+        "runtime": 155,
+        "modes": {
+            "modes": [
+                "subscriptions",
+                "ppv"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [
+                    {
+                        "id": 2,
+                        "name": "Amazon",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/04/25/amazon_websource-2022.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1249,
+                        "name": "Apple TV",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/03/16/apple-tv-websource-image.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "Google Play Movies",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/googleplay-movies-websource-img-500px-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1,
+                        "name": "iTunes",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/07/28/itunes_appstore_image.webp",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 746,
+                        "name": "microsoft",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/31/microsoft_websource_stacked_logo.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": null,
+                        "transition_text": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "VUDU",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/09/09/vudu-websource-logo-blu-2022-2.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "vudu",
+                        "transition_text": null
+                    }
+                ],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 733,
+                        "name": "MAX",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2023/05/26/max-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "hbo_max",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "hbo_max",
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 20,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 130,
+        "is_trending": true
+    },
+    {
+        "id": 561920,
+        "slug": "e977d15c-6f0e-4dd1-ade0-5a24f2bc0855-the-statistical-probability-of-love-at-first-sight",
+        "name": "Love at First Sight",
+        "description": "Hadley and Oliver begin to fall for each other on their flight from New York to London. The probability of ever finding each other again seems impossible, but love - and London - may have a way of defying the odds.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/09/19/mkIKsrnXHe_zTTgI92GGVtYIGunown2oWOUDES1.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/VjkNAtjAdW_7MQ94DzNaqL5E9zze5tbDF9hFdN1.1920x1080.jpg",
+        "url": "/guide/movie/info/e977d15c-6f0e-4dd1-ade0-5a24f2bc0855-the-statistical-probability-of-love-at-first-sight/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2023,
+        "imdb_rating": 6.9,
+        "runtime": 90,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 131,
+        "is_trending": true
+    },
+    {
+        "id": 578637,
+        "slug": "36ce1a66-2a2b-4a19-ba5b-eface221e8d5-ice-cold-murder-coffee-and-jessica-wongso",
+        "name": "Ice Cold: Murder, Coffee and Jessica Wongso",
+        "description": "This documentary delves into the unanswered questions surrounding the trial of Jessica Wongso years after the death of her best friend, Mirna Salihin.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/10/02/gPUnnmgULC_ice-cold.267x400.jpeg",
+        "bg_image": "//d62yj09qiua3x.cloudfront.net/static/guide/img/placeholders/Default_Movie_Poster_400x570.png",
+        "url": "/guide/movie/info/36ce1a66-2a2b-4a19-ba5b-eface221e8d5-ice-cold-murder-coffee-and-jessica-wongso/",
+        "rating": "1",
+        "rating_name": "PG-13",
+        "release_year": 2023,
+        "imdb_rating": 6.1,
+        "runtime": 86,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 157,
+        "is_trending": true
+    },
+    {
+        "id": 576074,
+        "slug": "d17b915e-10c4-4112-9a50-bca5b724fb76-a-life-too-short-the-isabella-nardoni-case",
+        "name": "A Life Too Short: The Isabella Nardoni Case",
+        "description": "When a 5-year-old girl falls from her father's apartment, her mother embarks on a quest for justice - and is put under the national spotlight.",
+        "image": "//d3e3bui7xn67l.cloudfront.net/media/movies/2023/08/18/d17b915e-10c4-4112-9a50-bca5b724fb76-poster-780.267x400.jpg",
+        "bg_image": "//d3e3bui7xn67l.cloudfront.net/media/movies/backdrops/d17b915e-10c4-4112-9a50-bca5b724fb76-backdrop-1920.1920x1080.jpg",
+        "url": "/guide/movie/info/d17b915e-10c4-4112-9a50-bca5b724fb76-a-life-too-short-the-isabella-nardoni-case/",
+        "rating": "N",
+        "rating_name": "Not Rated",
+        "release_year": 2023,
+        "imdb_rating": 6.1,
+        "runtime": 104,
+        "modes": {
+            "modes": [
+                "subscriptions"
+            ],
+            "web_sources": {
+                "authenticated": [],
+                "ppv": [],
+                "free": [],
+                "subscriptions": [
+                    {
+                        "id": 459,
+                        "name": "Netflix",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/08/22/netflix-websource-img-500px.jpg",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    },
+                    {
+                        "id": 1250,
+                        "name": "Netflix Basic",
+                        "image": "//d3e3bui7xn67l.cloudfront.net/media/websource/2022/12/20/netflix_basic_v2.png",
+                        "free_signup_required": false,
+                        "subscription_code": "NETFLIX",
+                        "transition_text": null
+                    }
+                ]
+            },
+            "subscription_services": [
+                "NETFLIX",
+                "NETFLIX"
+            ],
+            "content_labels": [
+                "subscribed"
+            ]
+        },
+        "type": "movie",
+        "is_free": false,
+        "popularity": 999999,
+        "subscribed_user_only": true,
+        "weight": 5,
+        "trending_weight": 164,
+        "is_trending": true
+    }
+]
