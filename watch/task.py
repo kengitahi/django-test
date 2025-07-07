@@ -1,35 +1,47 @@
-import requests
 from celery import shared_task
+from kinopoisk import KPClient
 
 # from .models import Movie, Show
 
-KINOPOSK_API_KEY = "60BF9ZA-Z1TMXKQ-QGZ6ZW3-TCH68SG"
+KINOPOSK_API_KEY = "4cb0d1a1-46a0-4cf2-86a3-8321e4e5fdc5"
+
+
+# @shared_task
+# async def fetch_kinopoisk_rating(keyword):
+#     client = KPClient(KINOPOSK_API_KEY)
+
+#     production = await client.search_movie(keyword)
+
+#     return production[0].raiting.kinopoisk.value
 
 
 @shared_task
-def fetch_kinopoisk_rating(title):
-    url = f"https://api.kinopoisk.dev/v1.4/movie/search?page=1&limit=1&query={title}"
-    headers = {
-        "X-API-KEY": KINOPOSK_API_KEY,
-    }
-    response = requests.get(url, headers=headers)
+async def fetch_seasons(show_name):
+    client = KPClient(KINOPOSK_API_KEY)
 
-    if response.status_code == 200:
-        data = response.json()
-        movie_data = data["docs"][0]
-        rating = movie_data.get("rating", {}).get("kp", None)
+    show = await client.search_movie(show_name)
+    seasons = await client.get_seasons_data(show[0].id.kinopoisk)
 
-        if rating is None:
-            rating = movie_data.get("rating", {}).get("imdb")
+    return seasons
 
-        return rating
-    else:
-        print(f"Error fetching data: {response.status_code}")
+
+@shared_task
+async def fetch_episodes(show_name):
+    seasons = await fetch_seasons(show_name)
+
+    for season in seasons:
+        for index, episode in enumerate(season, start=1):
+            print(f"{index} : {episode.name.en}")
+
+    return seasons
 
 
 if __name__ == "__main__":
     # Example usage
-    # This would typically be called from a Django view or another part of the application
-    # Uncomment the line below to test the function
-    fetch_kinopoisk_rating("Castlevania: Nocturne")
-    pass
+    import asyncio
+
+    # async def main():
+    #     seasons = await fetch_seasons("Game of Thrones")
+    #     print(seasons)
+
+    asyncio.run(fetch_episodes("Game of Thrones"))
