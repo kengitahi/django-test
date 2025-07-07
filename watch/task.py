@@ -26,14 +26,20 @@ async def fetch_seasons(show_name):
 
 
 @shared_task
-async def fetch_episodes(show_name):
+async def fetch_episodes(show_name, season_number):
     seasons = await fetch_seasons(show_name)
+    episodes = []
 
-    for season in seasons:
+    for season in seasons[:season_number]:
         for index, episode in enumerate(season, start=1):
-            print(f"{index} : {episode.name.en}")
+            episodes.append(
+                {
+                    "episode_number": index,
+                    "name": episode.name.en,
+                },
+            )
 
-    return seasons
+    return episodes
 
 
 if __name__ == "__main__":
@@ -44,4 +50,4 @@ if __name__ == "__main__":
     #     seasons = await fetch_seasons("Game of Thrones")
     #     print(seasons)
 
-    asyncio.run(fetch_episodes("Game of Thrones"))
+    asyncio.run(fetch_episodes("Game of Thrones", 1))
