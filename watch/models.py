@@ -26,6 +26,10 @@ class Movie(Details):
 
 class Show(Details):
     release_date = models.DateField()
+    sources_list = models.JSONField(
+        default=list,
+        help_text="List of sources for the episode, e.g. ['source1', 'source2']",
+    )
 
     def __str__(self):
         return f"Show: {self.name} - {self.release_date} - {self.imdb_rating}"
@@ -33,7 +37,3 @@ class Show(Details):
 
 class Episode(models.Model):
     show = models.ForeignKey(Show, on_delete=models.CASCADE)
-    sources_list = models.JSONField(
-        default=list,
-        help_text="List of sources for the episode, e.g. ['source1', 'source2']",
-    )
