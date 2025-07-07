@@ -13,15 +13,15 @@ def fetch_json_data(url, filename):
     try:
         response = requests.get(url)
         response.raise_for_status()
-        movies_data = response.json()
+        json_data = response.json()
 
         if not os.path.exists(SAVE_DIR):
             os.makedirs(SAVE_DIR)
 
         save_file_path = os.path.join(SAVE_DIR, f"{filename}.json")
 
-        with open(save_file_path, "w") as movies_file:
-            json.dump(movies_data, movies_file, indent=4)
+        with open(save_file_path, "w") as data_file:
+            json.dump(json_data, data_file, indent=4)
 
         print(f"Successfully dumped JSON from '{url}' to '{filename}.json'")
     except requests.RequestException as e:
