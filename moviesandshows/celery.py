@@ -1,9 +1,9 @@
 import os
 from celery import Celery
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'watch.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'moviesandshows.settings')
 
-app = Celery('watch')
+app = Celery('moviesandshows')
 app.config_from_object('django.conf:settings', namespace='CELERY')
 app.autodiscover_tasks()
 

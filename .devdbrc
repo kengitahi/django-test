@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/kennedy/Code/Django/moviesandshows/db.sqlite3"
+  }
+]

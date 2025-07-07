@@ -35,5 +35,18 @@ class Show(Details):
         return f"Show: {self.name} - {self.release_date} - {self.imdb_rating}"
 
 
-class Episode(models.Model):
+class Season(models.Model):
+    number = models.IntegerField("The Season Number")
     show = models.ForeignKey(Show, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"Show: {self.show.name}, Season: {self.number}"
+
+
+class Episode(models.Model):
+    number = models.IntegerField("The Episode Number")
+    name = models.CharField(max_length=255)
+    season = models.ForeignKey(Season, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"Show: {self.season.show.name}, Season: {self.season.number}, Eposide: {self.number}"
