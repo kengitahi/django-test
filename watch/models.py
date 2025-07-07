@@ -14,7 +14,7 @@ class Details(models.Model):
 
 
 class Movie(Details):
-    release_year = models.DateField()
+    release_year = models.IntegerField()
     sources_list = models.JSONField(
         default=list,
         help_text="List of sources for the movie, e.g. ['source1', 'source2']",
