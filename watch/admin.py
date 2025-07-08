@@ -16,6 +16,7 @@ class ShowAdmin(admin.ModelAdmin):
 class SeasonAdmin(admin.ModelAdmin):
     ordering = ["number"]
     list_display = ["number", "show"]
+    search_fields = ["show__name"]
 
 
 class EpisodeAdmin(admin.ModelAdmin):

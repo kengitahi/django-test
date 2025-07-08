@@ -32,7 +32,7 @@ class Show(Details):
     )
 
     def __str__(self):
-        return f"{self.name} - {self.release_date} - {self.imdb_rating}"
+        return f"{self.name}"
 
 
 class Season(models.Model):
