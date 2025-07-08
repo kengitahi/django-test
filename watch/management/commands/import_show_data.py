@@ -30,4 +30,4 @@ class Command(BaseCommand):
                 "release_date": show["first_aired"],
             }
 
-            process_single_show.delay(show_data)
+            process_single_show.delay(show_data) # type: ignore

@@ -6,3 +6,4 @@ plan.txt
 .gitignore
 .env
 .pyc
+*ken*

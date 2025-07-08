@@ -30,4 +30,4 @@ class Command(BaseCommand):
                 "release_year": movie["release_year"],
             }
 
-            process_single_movie.delay(movie_data)
+            process_single_movie.delay(movie_data) # type: ignore
