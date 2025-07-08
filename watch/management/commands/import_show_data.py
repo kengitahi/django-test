@@ -9,7 +9,7 @@ shows_json_url = "https://channelsapi.s3.amazonaws.com/media/test/shows.json"
 
 
 class Command(BaseCommand):
-    def handle(self):
+    def handle(self, *args, **options):
         try:
             with open("watch/fetched_data/shows.json", "r") as file:
                 shows = json.load(file)
@@ -30,4 +30,4 @@ class Command(BaseCommand):
                 "release_date": show["first_aired"],
             }
 
-            process_single_show.delay(show_data) # type: ignore
+            process_single_show.delay(show_data)  # type: ignore

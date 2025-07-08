@@ -9,7 +9,7 @@ movies_json_url = "https://channelsapi.s3.amazonaws.com/media/test/movies.json"
 
 
 class Command(BaseCommand):
-    def handle(self):
+    def handle(self, *args, **options):
         try:
             with open("watch/fetched_data/movies.json", "r") as file:
                 movies = json.load(file)
@@ -30,4 +30,4 @@ class Command(BaseCommand):
                 "release_year": movie["release_year"],
             }
 
-            process_single_movie.delay(movie_data) # type: ignore
+            process_single_movie.delay(movie_data)  # type: ignore
