@@ -20,7 +20,7 @@ class SeasonAdmin(admin.ModelAdmin):
 
 class EpisodeAdmin(admin.ModelAdmin):
     ordering = ["number"]
-    list_display = ["number", "name"]
+    list_display = ["number", "name", "season__show"]
 
 
 admin.site.register(Movie, MovieAdmin)

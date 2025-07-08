@@ -47,14 +47,14 @@ async def fetch_kinopoisk_rating(keyword):
 
 
 @shared_task
-def fetch_seasons(show_name):
+async def fetch_seasons(show_name):
     """
     Celery task to fetch the seasons for a single show.
     """
     client = KPClient(KINOPOSK_API_KEY)
 
-    show = asyncio.run(client.search_movie(show_name))
-    seasons = asyncio.run(client.get_seasons_data(show[0].id.kinopoisk))
+    show = await client.search_movie(show_name)
+    seasons = await client.get_seasons_data(show[0].id.kinopoisk)
 
     seasons_data = []
 
@@ -70,14 +70,14 @@ def fetch_seasons(show_name):
 
 
 @shared_task
-def fetch_episodes(show_name, season_number):
+async def fetch_episodes(show_name, season_number):
     """
     Celery task to fetch the episodes for a single season.
     """
     client = KPClient(KINOPOSK_API_KEY)
 
-    show = asyncio.run(client.search_movie(show_name))
-    seasons = asyncio.run(client.get_seasons_data(show[0].id.kinopoisk))
+    show = await client.search_movie(show_name)
+    seasons = await client.get_seasons_data(show[0].id.kinopoisk)
 
     episodes = []
     episodes_data = []
@@ -139,14 +139,16 @@ def process_single_show(show_data):
         sources_list=sources_list,
     )
 
-    seasons = fetch_seasons(show_data["name"])
+    seasons = asyncio.run(fetch_seasons(show_data["name"]))
     for season in seasons:
         season_obj = Season.objects.create(
             number=season["season_number"],
             show=Show.objects.get(name=show_data["name"]),
         )
 
-        episodes = fetch_episodes(show_data["name"], season["season_number"])
+        episodes = asyncio.run(
+            fetch_episodes(show_data["name"], season["season_number"])
+        )
         for episode in episodes:
             Episode.objects.create(
                 number=episode["episode_number"],

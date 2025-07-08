@@ -32,7 +32,7 @@ class Show(Details):
     )
 
     def __str__(self):
-        return f"Show: {self.name} - {self.release_date} - {self.imdb_rating}"
+        return f"{self.name} - {self.release_date} - {self.imdb_rating}"
 
 
 class Season(models.Model):
@@ -40,7 +40,7 @@ class Season(models.Model):
     show = models.ForeignKey(Show, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f"Show: {self.show.name}, Season: {self.number}"
+        return f"{self.show.name}, Season: {self.number}"
 
 
 class Episode(models.Model):
@@ -49,4 +49,4 @@ class Episode(models.Model):
     season = models.ForeignKey(Season, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f"Show: {self.season.show.name}, Season: {self.season.number}, Eposide: {self.number}"
+        return f"{self.season.show.name}, Season: {self.season.number}, Eposide: {self.number}"
