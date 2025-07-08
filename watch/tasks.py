@@ -3,7 +3,7 @@ import asyncio
 from celery import shared_task
 from kinopoisk import KPClient
 
-from .models import Movie, Show
+from .models import Episode, Movie, Season, Show
 
 KINOPOSK_API_KEY = "4cb0d1a1-46a0-4cf2-86a3-8321e4e5fdc5"  # TODO: Bad practice
 
@@ -44,46 +44,6 @@ async def fetch_kinopoisk_rating(keyword):
         return 1.0
 
     return production[0].raiting.kinopoisk.value
-
-
-@shared_task
-def process_single_movie(movie_data):
-    """
-    Celery task to process a single movie, fetch its Kinopoisk rating, get its sources list and save it to the database.
-    """
-
-    kinopoisk_rating = asyncio.run(fetch_kinopoisk_rating(movie_data["name"])) or 1.0
-    sources_list = get_sources(movie_data["movie"])
-
-    Movie.objects.create(
-        name=movie_data["name"],
-        imdb_rating=movie_data["imdb_rating"],
-        kinopoisk_rating=kinopoisk_rating,
-        image=movie_data["image"],
-        description=movie_data["description"],
-        release_year=movie_data["release_year"],
-        sources_list=sources_list,
-    )
-
-
-@shared_task
-def process_single_show(show_data):
-    """
-    Celery task to process a single show, fetch its Kinopoisk rating, get its sources list and save it to the database.
-    """
-
-    kinopoisk_rating = asyncio.run(fetch_kinopoisk_rating(show_data["name"])) or 1.0
-    sources_list = get_sources(show_data["show"])
-
-    Show.objects.create(
-        name=show_data["name"],
-        imdb_rating=show_data["imdb_rating"],
-        kinopoisk_rating=kinopoisk_rating,
-        image=show_data["image"],
-        description=show_data["description"],
-        release_date=show_data["release_date"],
-        sources_list=sources_list,
-    )
 
 
 @shared_task
@@ -140,10 +100,56 @@ def fetch_episodes(show_name, season_number):
     return episodes_data
 
 
-if __name__ == "__main__":
-    # Example usage
-    from watch.models import Movie, Show
+@shared_task
+def process_single_movie(movie_data):
+    """
+    Celery task to process a single movie, fetch its Kinopoisk rating, get its sources list and save it to the database.
+    """
 
-    fetch_seasons("Game of Thrones")
+    kinopoisk_rating = asyncio.run(fetch_kinopoisk_rating(movie_data["name"])) or 1.0
+    sources_list = get_sources(movie_data["movie"])
 
-    # fetch_episodes("Game of Thrones", 1)
+    Movie.objects.create(
+        name=movie_data["name"],
+        imdb_rating=movie_data["imdb_rating"],
+        kinopoisk_rating=kinopoisk_rating,
+        image=movie_data["image"],
+        description=movie_data["description"],
+        release_year=movie_data["release_year"],
+        sources_list=sources_list,
+    )
+
+
+@shared_task
+def process_single_show(show_data):
+    """
+    Celery task to process a single show, fetch its Kinopoisk rating, get its sources list, get the seasons and episodes and save it to the database.
+    """
+
+    kinopoisk_rating = asyncio.run(fetch_kinopoisk_rating(show_data["name"])) or 1.0
+    sources_list = get_sources(show_data["show"])
+
+    Show.objects.create(
+        name=show_data["name"],
+        imdb_rating=show_data["imdb_rating"],
+        kinopoisk_rating=kinopoisk_rating,
+        image=show_data["image"],
+        description=show_data["description"],
+        release_date=show_data["release_date"],
+        sources_list=sources_list,
+    )
+
+    seasons = fetch_seasons(show_data["name"])
+    for season in seasons:
+        season_obj = Season.objects.create(
+            number=season["season_number"],
+            show=Show.objects.get(name=show_data["name"]),
+        )
+
+        episodes = fetch_episodes(show_data["name"], season["season_number"])
+        for episode in episodes:
+            Episode.objects.create(
+                number=episode["episode_number"],
+                name=episode["name"],
+                season=season_obj,
+            )
