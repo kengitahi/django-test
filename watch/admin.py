@@ -4,12 +4,12 @@ from .models import Episode, Movie, Season, Show
 
 
 class MovieAdmin(admin.ModelAdmin):
-    list_display = ("name", "release_year", "imdb_rating")
+    list_display = ("name", "release_year", "imdb_rating", "kinopoisk_rating")
     search_fields = ("name", "release_year")
 
 
 class ShowAdmin(admin.ModelAdmin):
-    list_display = ("name", "release_date", "imdb_rating")
+    list_display = ("name", "release_date", "imdb_rating", "kinopoisk_rating")
     search_fields = ("name", "release_date")
 
 

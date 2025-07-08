@@ -4,8 +4,8 @@ from django.db import models
 # Create your models here.
 class Details(models.Model):
     name = models.CharField(max_length=255)
-    imdb_rating = models.FloatField("IMDB Rating", default=1)
-    kinopoisk_rating = models.FloatField(default=1)
+    imdb_rating = models.CharField("IMDB Rating", default="1.0")
+    kinopoisk_rating = models.CharField("Kinopoisk Rating", default="1.0")
     image = models.CharField()
     description = models.TextField()
 
@@ -14,7 +14,7 @@ class Details(models.Model):
 
 
 class Movie(Details):
-    release_year = models.IntegerField()
+    release_year = models.CharField()
     sources_list = models.JSONField(
         default=list,
         help_text="List of sources for the movie, e.g. ['source1', 'source2']",
