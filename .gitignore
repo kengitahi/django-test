@@ -1,9 +1,15 @@
 #Folders
 .venv
+__pycache__
 
 #Files
 plan.txt
+*ken*
+
 .gitignore
 .env
 .pyc
-*ken*
+*.log
+*.sqlite3
+*.db
+.devdbrc
