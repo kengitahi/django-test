@@ -1,18 +1,20 @@
+import asyncio
+
 from celery import shared_task
 from kinopoisk import KPClient
 
 # from .models import Movie, Show
 
-KINOPOSK_API_KEY = "4cb0d1a1-46a0-4cf2-86a3-8321e4e5fdc5"
+KINOPOSK_API_KEY = "4cb0d1a1-46a0-4cf2-86a3-8321e4e5fdc5"  # TODO: Bad practice
 
 
-# @shared_task
-# async def fetch_kinopoisk_rating(keyword):
-#     client = KPClient(KINOPOSK_API_KEY)
+@shared_task
+async def fetch_kinopoisk_rating(keyword):
+    client = KPClient(KINOPOSK_API_KEY)
 
-#     production = await client.search_movie(keyword)
+    production = await client.search_movie(keyword)
 
-#     return production[0].raiting.kinopoisk.value
+    return production[0].raiting.kinopoisk.value
 
 
 @shared_task
@@ -44,7 +46,6 @@ async def fetch_episodes(show_name, season_number):
 
 if __name__ == "__main__":
     # Example usage
-    import asyncio
 
     # async def main():
     #     seasons = await fetch_seasons("Game of Thrones")
